@@ -1,0 +1,30 @@
+[
+  {
+    "moduleName": "Video-In-Banner",
+    "imageAsset": ["JPG/PNG/GIF"],
+    "videoAsset": ["MP4"],
+    "landingUrl": ["https://"],
+    "dimension": ["300x250", "320x480", "970x250"]
+  },
+  {
+    "moduleName": "Video Ads",
+    "imageAsset": ["JPG/PNG/GIF"],
+    "videoAsset": ["MP4"],
+    "landingUrl": ["https://"],
+    "dimension": ["300x250", "320x480", "970x250"]
+  },
+  {
+    "moduleName": "Parallax Video-In-Banner",
+    "imageAsset": ["JPG/PNG/GIF"],
+    "videoAsset": ["MP4"],
+    "landingUrl": ["https://"],
+    "dimension": ["300x250", "320x480", "970x250"]
+  },
+  {
+    "moduleName": "Flip Video Ads",
+    "imageAsset": ["JPG/PNG/GIF"],
+    "videoAsset": ["MP4"],
+    "landingUrl": ["https://"],
+    "dimension": ["300x250", "320x480", "970x250"]
+  }
+]

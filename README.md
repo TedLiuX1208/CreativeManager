@@ -1,2 +1,0 @@
-# CreativeManager
-Created with CodeSandbox
